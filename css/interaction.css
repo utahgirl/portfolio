@@ -1,0 +1,54 @@
+
+/*Title Bar*/
+.titleBar{
+    background-color: coral;
+    color: white;
+    padding: 10px 20px;
+    font: "times";
+}
+
+.titleBar h3{
+    font-weight: 200; 
+    font-variant-caps: all-petite-caps; 
+    font-kerning: normal;
+}
+
+/*Banner Image*/
+.bannerImage{
+    height: 300px;
+    background-color: antiquewhite;
+    background-image: url(../Media/background.s_background_image_04.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 0 -250;
+    
+}
+
+/*Background Color*/
+.pageBackground{background-color: #E9E9E9}
+
+
+/*Font*/
+.contentHeading h2{
+    font-weight: 200; 
+    font-variant-caps: all-small-caps; 
+    font-kerning: normal;}
+
+
+/*Profile Pic*/
+.img-circle{
+    border-radius: 50%;}
+
+/*Quotes Section*/
+.quotesSection{
+	font-family: serif;
+	height: 100el;
+	margin-bottom: 20px;
+	padding: 20px 50px;
+}
+
+/*Card formatting*/
+.cardText{
+    padding: 0px 10px;
+}
+
